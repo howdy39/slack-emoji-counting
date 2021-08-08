@@ -1,0 +1,4 @@
+node_modules
+import_data/*
+res.text
+.DS_Store
