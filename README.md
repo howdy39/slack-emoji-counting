@@ -15,7 +15,7 @@ Slackの絵文字の件数をカウントするプログラム
 ## Prerequisites
 - [Node.js](https://nodejs.org/)
 
-## Download and put export data
+## Steps
 1. 管理者権限で対象の期間のデータをエクスポートします
    - https://slack.com/services/export
 2. 落としたzipファイルを解凍してディレクトリを`import_data`にします
